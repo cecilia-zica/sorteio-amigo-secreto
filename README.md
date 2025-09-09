@@ -2,8 +2,7 @@
 
 Este é um projeto simples de "Amigo Secreto" desenvolvido como parte dos estudos de lógica de programação com JavaScript da Alura. A aplicação permite que o usuário adicione nomes a uma lista e, em seguida, sorteie um nome aleatório dentre os participantes.
 
-![Demonstração da Aplicação](URL_PARA_SUA_IMAGEM_OU_GIF_AQUI)
-*(Sugestão: você pode gravar um GIF da tela e colocar o link no lugar do texto acima)*
+![Demonstração da Aplicação](assets/amigo_secreto_preview.png)
 
 ***
 
